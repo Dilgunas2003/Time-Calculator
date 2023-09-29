@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  timeCalc.cpp
 //  TIme Calculator
 //
 //  Created by Deividas Ilgunas on 8/21/23.
